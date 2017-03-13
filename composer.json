@@ -1,0 +1,19 @@
+{
+    "name": "litovka/framework",
+    "description": "library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "igonaf",
+            "email": "litovkahappy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Litovka\\Framework\\": "src/"
+        }
+    },
+    "require": {}
+}
